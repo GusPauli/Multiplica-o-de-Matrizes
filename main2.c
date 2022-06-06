@@ -1,3 +1,10 @@
+//compilar
+    //gcc main2.c -o main2
+//executar
+    // exemplo: ./main 20 20 20 20 t -n 
+    // argumento t para multiplicação com matriz transposta; argumento o para multiplicação normal
+    //caso queira printar trocar -n por -p
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
